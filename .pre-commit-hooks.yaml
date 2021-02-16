@@ -1,0 +1,7 @@
+  
+-   id: header-check
+    name: header check
+    description: Check for zmk licsence headers
+    entry: header-check
+    language: python
+    always_run: true
